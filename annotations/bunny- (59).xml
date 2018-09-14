@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>half</folder>
+	<filename>bunny- (59).jpg</filename>
+	<path>C:\Users\123ro\Desktop\half\bunny- (59).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>730</width>
+		<height>433</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bunny</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>1</ymin>
+			<xmax>575</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+</annotation>

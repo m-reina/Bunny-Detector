@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>bunny- (115).jpg</filename>
+	<path>D:\Bunny_Detector\images\bunny- (115).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2203</width>
+		<height>2937</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bunny</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>336</xmin>
+			<ymin>573</ymin>
+			<xmax>1806</xmax>
+			<ymax>2343</ymax>
+		</bndbox>
+	</object>
+</annotation>
